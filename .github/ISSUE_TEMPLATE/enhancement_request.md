@@ -2,6 +2,8 @@
 name: Enhancement Request
 about: Suggest an enhancement
 labels: kind/enhancement
+title: 'Onboarding Request'
+assignees: 'vlerenc'
 
 ---
 
