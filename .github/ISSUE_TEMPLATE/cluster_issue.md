@@ -3,7 +3,7 @@ name: Cluster Issue
 about: Report an issue with a cluster
 title: ''
 assignees: ''
-labels: kind/bug
+labels: topology/shoot
 
 ---
 
