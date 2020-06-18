@@ -3,7 +3,7 @@ name: General Issue
 about: Report a general issue
 title: ''
 assignees: ''
-labels: kind/bug
+labels: topology/garden
 
 ---
 
